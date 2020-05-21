@@ -16,7 +16,7 @@ Template must contain unsubscribe link.
 
 I need to know how you would like this constructed
 _______________________________________________________________________
-Logo                                       Website | Offers | View All |
+Logo.......................................Website | Offers | View All |
 _______________________________________________________________________
 Product                                           Graphic Photo Here?
                                                    
